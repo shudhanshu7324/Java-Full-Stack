@@ -6,3 +6,16 @@ javac is the compiler used for compiling the java code.
 // flow of the java program
 
 user ----> javacode ----> compiler (javac) ----> converted to bytecode ----> jvm ---> (the file executed by jvm must have a main method inside it)
+
+JRE (java runtime environment) --> jvm with libraries is a part of jre
+
+JDK (it has jre and jvm inside it)
+
+
+
+
+// DATATYPES
+ primitve -> integer (byte,short,int,long)         non-primitive - ?
+          -> float (float,double)
+          -> character 
+          -> boolean
