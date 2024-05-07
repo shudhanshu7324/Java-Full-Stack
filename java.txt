@@ -19,3 +19,6 @@ JDK (it has jre and jvm inside it)
           -> float (float,double)
           -> character 
           -> boolean
+
+
+// Typeconversion, typecasting, typepromotion

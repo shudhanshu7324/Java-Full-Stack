@@ -13,7 +13,7 @@ public class TypeCasting_3 {
 
         // type promotion
         // byte*byte can be get overflowed from byte range so automatically type promotion takes place
-        byte a = 10;
+        byte f = 10;
         byte b = 30;
         int c = a*b;
         System.out.println(c);
