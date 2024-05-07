@@ -1,0 +1,8 @@
+javac is the compiler used for compiling the java code.
+
+// java is platform independent because of jvm (java virtual machine) ** but jvm is platform dependent
+
+
+// flow of the java program
+
+user ----> javacode ----> compiler (javac) ----> converted to bytecode ----> jvm ---> (the file executed by jvm must have a main method inside it)
